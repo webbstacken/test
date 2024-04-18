@@ -1,1 +1,1 @@
-Get-ComputerInfo
+Get-ComputerInfo > dump.txt
